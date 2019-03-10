@@ -1,2 +1,3 @@
-# tilemapgenerator
+# C# Tilemap Generator
+## BAO HO
 A C# program to generate tilesets from map and vice versa ...
